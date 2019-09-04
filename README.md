@@ -4,3 +4,13 @@
 The main goal of LYRA is creating a platform capable of issuing and collecting (redeeming) tokens as payments alongside traditional transactions.  Such system has to be fast (point of sale fast), support unlimited throughput (TPS), be elastically scalable and eventually fully decentralized.  
 
 LYRA is attempting to combine the best ideas and technologies currently available in crypto space, such as delegated proof of stake, sharding, and CryptoNote, and apply them to the tokenized financial payment network space. 
+
+
+### Functional Devnet with binaries are coming mid September 2019
+
+### Preview
+
+[![Lyra early dev](https://img.youtube.com/vi/SsuInrE8y4A/0.jpg)](https://youtu.be/SsuInrE8y4A)
+
+
+
