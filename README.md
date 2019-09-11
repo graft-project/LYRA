@@ -7,22 +7,16 @@ Lyra uses the latest techniques in DAG-style blocklist/blockchain design, such a
 
 In fact Lyra possesses a lot of unique and interesting characteristics that make it a perfect fit for a lot of token implementations that benefit from point-of-sale compatibility.
 
-- DAG-style chain collection / blocklist architecture
-- Super Light Clients / Wallets
-- Fungible and Non-fungible Tokens
-- Pre-programmed Smart Contracts
-- Instant Transactions
-- Built-in Instant Token Exchange Capability
-- Compatible with Point of Sale
-- Flexible Transaction Fee Structure
+* DAG-style block lattice architecture
+* Super Light Clients / Wallets
+* Very High Scalability (tps)
+* Fungible and Non-fungible Tokens
+* Pre-programmed Smart Contracts
+* Instant Transactions
+* Built-in Instant Decentralized Token Exchange Capability
+* Compatible with Point of Sale
+* Flexible Transaction Fee Structure
 
-
-
-### Functional Devnet with binaries are coming mid September 2019
-
-### Preview
-
-[![Lyra early dev](https://img.youtube.com/vi/SsuInrE8y4A/0.jpg)](https://youtu.be/SsuInrE8y4A)
-
-
-
+See also  
+[Launching Your First Lyra Token](https://github.com/graft-project/LYRA/wiki/Launching-Your-First-Lyra-Token)  
+[Download Lyra CLI Client](https://github.com/graft-project/LYRA/releases)
