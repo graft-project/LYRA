@@ -18,11 +18,9 @@ In fact Lyra possesses a lot of unique and interesting characteristics that make
 * Flexible Transaction Fee Structure
 
 See also  
-[Launching Your First Lyra Token](https://github.com/graft-project/LYRA/wiki/Launching-Your-First-Lyra-Token)  
-[Download Lyra CLI Client](https://github.com/graft-project/LYRA/releases)
 
-## [Download Lyra CLI Client](https://github.com/graft-project/LYRA/releases)
-## [Launching Your First Lyra Token](https://github.com/graft-project/LYRA/wiki/Launching-Your-First-Lyra-Token)
+### [Download Lyra CLI Client](https://github.com/graft-project/LYRA/releases)
+### [Launching Your First Lyra Token](https://github.com/graft-project/LYRA/wiki/Launching-Your-First-Lyra-Token)
 
 ### [Lyra.Live](https://lyra.live)
 ### [Design Docs](https://docs.lyra.live/)
