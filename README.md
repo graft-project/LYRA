@@ -23,5 +23,4 @@ See also
 ### [Download Lyra CLI Client](https://github.com/graft-project/LYRA/releases)
 ### [Launching Your First Lyra Token](https://github.com/graft-project/LYRA/wiki/Launching-Your-First-Lyra-Token)
 
-### [Lyra.Live Web Site](https://lyra.live)
-### [FAQ's](https://lyra.live/faq/)
+### [LyraLex Community Development](https://www.lyratokens.com/)
