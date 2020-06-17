@@ -1,6 +1,5 @@
 # GRAFT, Lyra, and LoyalShopper Economy
-I would like to propose the following link (“tethering”) between GRAFT (and GRFT token), Lyra network, and any applications running on or using Lyra network (such as LoyalShopper). 
-Such a link will open new opportunities for the GRAFT project and its supporters - in case Lyra is developed as part of Graft project.    
+I would like to propose the following link (“tethering”) between GRAFT (and GRFT token), Lyra network, and any applications running on or using Lyra network (such as LoyalShopper). Although Lyra codebase is independent from GRAFT and can be developed as a separate open source project, such a link will open new opportunities for the original GRAFT project and its supporters - in case Lyra is developed as part of GRAFT.    
 ## Terminology
 **GRAFT** - 1. Company and community developing GRAFT network and applications; 2. Decentralized privacy PoW blockchain network based on Cryptonote protocol.
 
